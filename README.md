@@ -15,7 +15,7 @@ Analyze Acme Co.’s 2014–2018 sales data to identify key revenue and profit d
 
 You can download the sample dataset used for this analysis from the link below:
 
- [Download ola_bookings.csv](https://github.com/YOUR_USERNAME/Ola-Dashboard/raw/main/data/ola_bookings_sample.csv) 
+ [Download Sales.csv](https://github.com/ayushrai017/Sales_EDA/raw/main/data/Sales_data.csv) 
 
 ## **Objective**
 Deliver actionable insights from Acme Co.’s 2014–2018 sales data to:
