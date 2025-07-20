@@ -11,12 +11,6 @@ Correlation & Segmentation: Assessed relationships between key metrics and clust
 ## **Problem Statement**  
 Analyze Acme Co.’s 2014–2018 sales data to identify key revenue and profit drivers across products, channels, and regions; uncover seasonal trends and outliers; and align performance against budgets. Use these insights to optimize pricing, promotions, and market expansion for sustainable growth and reduced concentration risk.
 
-##  **Dataset**
-
-You can download the sample dataset used for this analysis from the link below:
-
- [Download Sales.csv](https://github.com/ayushrai017/Sales_EDA/raw/main/data/Sales_data.csv) 
-
 ## **Objective**
 Deliver actionable insights from Acme Co.’s 2014–2018 sales data to:
 
